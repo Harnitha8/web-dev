@@ -1,0 +1,40 @@
+﻿body
+{
+background: aqua;
+}
+h1
+{
+color: red;
+}
+.a
+{ 
+position: relative;
+background: black;
+width: 400px;
+height: 200px;
+color: white;
+}
+.b
+{ 
+position: absolute;
+background: white;
+bottom: 0px;
+width: 100px;
+height: 100px;
+float: left;
+}
+.c
+{ 
+position: absolute;
+background: white;
+top: 0px;
+right: 0px;
+width: 100px;
+height: 100px;
+float: left;
+}
+p
+{
+	color: blue;
+}
+
